@@ -1,6 +1,6 @@
 # SQL_classic_models_queries
 
-The best way to learn a language is by practise. In case of SQL it is to write your own SQL queries and run on a database to verify your understanding and getting grasp of the language and the nuances. The questions for the queries are taken from here - https://www.richardtwatson.com/dm6e/Reader/ClassicModels.html. Each subtopic in that page is diving into individual script files here. 
+The best way to learn a language is by practise. In case of SQL it is to write your own SQL queries and run on a database to verify your understanding and getting grasp of the language and the nuances. The questions for the queries are taken from here - https://www.richardtwatson.com/dm6e/Reader/ClassicModels.html. Some additional question are also covered. Each subtopic in that page is diving into individual script files here. The sample mysql database relational model can be viewed here - https://www.mysqltutorial.org/mysql-sample-database.aspx/
 
 If you are planning to use my scripts as a reference of your learning here's some points to note.
 - I am using a Classic models sample database, the script for creating the database is available in the files. 
